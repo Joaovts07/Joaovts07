@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [targinet.com](targinet.com)
 
-- 📝 I regularly write articles on [https://medium.com/@joakim.vts](Medium) 
+- 📝 I regularly write articles on https://medium.com/@joakim.vts 
 
 - 📫 How to reach me **joakim.vts@gmail.com**
 
