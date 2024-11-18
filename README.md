@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovts07" alt="joaovts07" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [targinet.com](targinet.com)
+- 👨‍💻 All of my projects are available at [targinet](targinet.com.br)
 
 - 📝 I regularly write articles on https://medium.com/@joakim.vts 
 
 - 📫 How to reach me **joakim.vts@gmail.com**
 
-- 📄 Know about my experiences [targinet.com](targinet.com)
+- 📄 Know about my experiences [targinet](targinet.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
